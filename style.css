@@ -1,0 +1,105 @@
+.banner{
+    width: 1340px;
+    height: 605px;
+    border-bottom: 1px solid #33a8db;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../image/banner.png);
+    background-color: black;
+    }
+.logo{
+  background-image: url(../image/logo.png);
+   width:510px;
+   height: 393px;
+   margin-left: 34%;
+   text-align: center;
+   background-repeat: no-repeat;
+   border-radius: 20px;
+   border-color: black;
+}
+h1{
+   font-family: Arial;
+   background-image: linear-gradient(blue red);
+   font-weight: 900;
+   text-align: center;
+   color:white;
+}
+.p01{
+   color: white;
+   font-weight: 600;
+}
+.button01{
+   width: 200px;
+   height: 40px;
+   border-radius: 10px;
+   background-image: linear-gradient(black, blue) ;
+   color: white;
+   font-weight: 600;
+   margin-left: 35%;
+}
+.course-content{
+    background-color: black;
+    width: 1340px;
+    height: 605px;
+
+}
+body{
+   height: 10vh;
+   background-color: black;
+}
+.h21{
+   color: white;
+   font-weight: 900;
+   margin-left: 40%;
+   font-family: Arial;  
+}
+.p02{
+   color: white;
+   margin-left: 15%;
+}
+.module{
+   color: white;
+   font-weight: 500;
+   border: 1px solid blue;
+   border-radius: 10px;
+   margin-left: 30%;
+   width: 368px;
+   height: 268%;
+   padding: 10px;
+   padding-left: 7%;
+}
+.h22{
+   color: #33a8db;
+   font-family: Arial;
+   font-weight: 900;
+   margin-left: 27%;
+}
+.tablet{
+   background-image: url(../image/professional-challenges.png);
+   width: 659px;
+   height: 429px;
+   margin-left: 25%;
+}
+.p03{
+   color: white;
+   margin-left: 15%;
+   font-weight: 600;
+}
+.pé{
+   background-image: url(../image/dio-logo.png);
+   width: 800px;
+   height: 600px;
+   background-repeat: no-repeat;
+   margin-left: 35%;
+}
+#p04{
+   color: white;
+   font-family: Arial;
+   font-weight: 400;
+   margin-left: 35%;
+
+
+}
